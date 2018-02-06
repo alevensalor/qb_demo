@@ -1,0 +1,25 @@
+
+.error-display {
+    color: red;
+    visibility: hidden;
+    font-weight:bold;
+}
+
+.in-error {
+    visibility: visible;
+}
+
+
+div.row  > label {
+  display: inline-block;
+  width: 100px;
+}
+
+div.row > input[type=text],
+div.row > select {
+    width: 150px;
+}
+
+div.buttons {
+  text-align: center;
+}
